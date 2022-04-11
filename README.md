@@ -1,3 +1,4 @@
+# UNDER DEVELOPMENT
 # Detection-of-MDD-with-EEG-Signals-using-InceptionTIme-model
 This is a repository for our paper titled [Automated Detection of Major Depressive Disorder with EEG Signals: A Time Series Classification Using Deep Learning](https://) published in [...](https://)
 This study focuses on the automated detection of MDD using EEG data and deep neural network architecture. For this aim, first, a customized InceptionTime model is recruited to detect MDD individuals via 19-channel raw EEG signals. Then a channel-selection strategy, which comprises three channel-selection steps,  is conducted to omit redundant channels.
