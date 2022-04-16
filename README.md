@@ -20,7 +20,7 @@ You will need to install the following packages present in the [requirements.txt
 The code is divided as follows: 
 * The [Inception classifier](https://https://github.com/AlirezaRafiei9/Detection-of-MDD-with-EEG-Signals-using-InceptionTIme-model/blob/main/Inception%20classifier) python file contains the Inception module python code using Keras library.
 * The [Opening and sorting the files](https://https://github.com/AlirezaRafiei9/Detection-of-MDD-with-EEG-Signals-using-InceptionTIme-model/blob/main/Opening%20and%20sorting%20the%20files) python folder contains the steps of opening and labelling the files.
-* The [Channel_Selection](https://https://github.com/AlirezaRafiei9/Detection-of-MDD-with-EEG-Signals-using-InceptionTIme-model/blob/main/Channel_Selection) python file involves general concepts of the channel selections approaches.
+* The [Channel selection](https://https://github.com/AlirezaRafiei9/Detection-of-MDD-with-EEG-Signals-using-InceptionTIme-model/blob/main/Channel%20selection) python file involves general concepts of the channel selections approaches.
 
 
 ## Reference
