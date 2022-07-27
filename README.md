@@ -5,7 +5,7 @@ This study focuses on the automated detection of MDD using EEG data and deep neu
 The orginal InceptionTime paper also is available on [here](https://arxiv.org/pdf/1909.04939.pdf). 
 
 
-## The proposed Inception network architecture
+## The proposed Inception network architecture 
 ![comgit](https://user-images.githubusercontent.com/96019816/162617323-416d4fec-b6ad-4a6e-afba-396e6b837392.jpg)
 
 ## Data
@@ -27,10 +27,13 @@ The code is divided as follows:
 If you are interested in this work, please cite:
 
 ```
-@article{??,
-  Title                    = {??},
-  Author                   = {??},
-  journal                  = {??},
-  Year                     = {??}
-}
+@ARTICLE{9828387,
+  author={Rafiei, Alireza and Zahedifar, Rasoul and Sitaula, Chiranjibi and Marzbanrad, Faezeh},
+  journal={IEEE Access}, 
+  title={Automated Detection of Major Depressive Disorder With EEG Signals: A Time Series Classification Using Deep Learning}, 
+  year={2022},
+  volume={10},
+  number={},
+  pages={73804-73817},
+  doi={10.1109/ACCESS.2022.3190502}}
 ```
