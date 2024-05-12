@@ -1,4 +1,4 @@
-output_directory = ''                 #Put your directory
+output_directory = '/output'                 #Put your directory
 input_shape = [19, 61440]             #19 channels and 4-minute records
 nb_classes = 2                        #MDD of Healthy
 nb_filters = 64
